@@ -45,7 +45,7 @@ $ git clone git@github.com:sp-edison/c_example_gnuplot.git
 다운로드가 완료되면, ```c_example_gnuplot``` 폴더가 생성되며, **src** 폴더로 이동하여 **make all** 명령어를 사용하면, 컴파일이 완료됩니다.
 
 ```
-$ cd c_example_gunplot
+$ cd c_example_gunplot/src
 $ make all
 gcc -c main.c -o main.o
 Compiled main.c successfully!
