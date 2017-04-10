@@ -5,12 +5,12 @@ EDISON 시뮬레이션 SW 개발자를 위한 1개의 입력 파일 읽어, sin 
 
 ```
 bin/
-simrc //gnuplot를 사용하기 위한 환경변수 추가
+ - simrc      //gnuplot를 사용하기 위한 환경변수 추가
 src/
-Makeflie
-main.c //main 소스 코드
+ - Makeflie
+ - main.c     //main 소스 코드
 inp/
-input.dat // 샘플 입력 파일
+ - input.dat //샘플 입력 파일
 ```
 
 
